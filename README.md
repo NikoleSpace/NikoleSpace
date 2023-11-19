@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🔭I am currently studying backend technologies. **
+- 🔭I am currently studying backend technologies.
 
 - 📫 How to reach me *nikoleupc@gmail.com*
 
@@ -26,6 +26,19 @@ Here are some ideas to get you started:
 	<img src="https://raw.githubusercontent.com/Aniket965/Aniket965/master/pacman.svg?sanitize=true" width="200" height="200">
 </div>
 
+**************
+
+<br />
+
+## 📊 GitHub Stats:
+
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=NikoleSpace&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NikoleSpace&layout=compact&langs_count=7&theme=tokyonight"/>
+</div>
+
+
+<br />
+
+*************
 ### Frontend technologies
  
  ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -56,18 +69,6 @@ Here are some ideas to get you started:
 
 <br />
 
-**************
 
-<br />
-
-## 📊 GitHub Stats:
-
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=NikoleSpace&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NikoleSpace&layout=compact&langs_count=7&theme=tokyonight"/>
-</div>
-
-
-<br />
-
-*************
 
 <br />
