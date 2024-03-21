@@ -16,6 +16,7 @@ Here are some ideas to get you started:
 
 - 📫 How to reach me *nikoleupc@gmail.com*
 
+- Experiencia con Linux : https://github.com/NikoleSpace/design-and-implementation-of-your-own-shell 
 
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
