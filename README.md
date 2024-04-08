@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋, I'm Nikole García </h1>
+![image](https://github.com/NikoleSpace/NikoleSpace/assets/129306932/d0ef2cc0-91a8-4219-bbe6-0cacf9ff5fba)<h1 align="center">Hi there 👋, I'm Nikole García </h1>
 <!--
 **NikoleSpace/NikoleSpace** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
@@ -46,13 +46,12 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" alt="IntelliJ IDEA">
     <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white" alt="Eclipse">
 </div>
-
-
+**************
 <br />
 <br />
 
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
-*************
+
 <div align="center">
 	<br>
 	<img src="https://raw.githubusercontent.com/Aniket965/Aniket965/master/pacman.svg?sanitize=true" width="200" height="200">
