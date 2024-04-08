@@ -1,4 +1,4 @@
-![image](https://github.com/NikoleSpace/NikoleSpace/assets/129306932/d0ef2cc0-91a8-4219-bbe6-0cacf9ff5fba)<h1 align="center">Hi there 👋, I'm Nikole García </h1>
+<h1 align="center">Hi there 👋, I'm Nikole García </h1>
 <!--
 **NikoleSpace/NikoleSpace** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
