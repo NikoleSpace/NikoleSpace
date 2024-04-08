@@ -17,14 +17,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me *nikoleupc@gmail.com*
 
 - Experiencia con Linux : https://github.com/NikoleSpace/design-and-implementation-of-your-own-shell 
-
-<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
-
-<div align="center">
-	<br>
-	<img src="https://raw.githubusercontent.com/Aniket965/Aniket965/master/pacman.svg?sanitize=true" width="200" height="200">
-</div>
-
 **************
 
 <h1 align="center">📊 GitHub Stats: </h1>
@@ -58,3 +50,10 @@ Here are some ideas to get you started:
 
 <br />
 <br />
+
+<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
+
+<div align="center">
+	<br>
+	<img src="https://raw.githubusercontent.com/Aniket965/Aniket965/master/pacman.svg?sanitize=true" width="200" height="200">
+</div>
