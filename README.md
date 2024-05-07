@@ -17,14 +17,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me *nikoleupc@gmail.com*
 
 - Experiencia con Linux : https://github.com/NikoleSpace/design-and-implementation-of-your-own-shell 
-**************
-
-<h1 align="center">📊 GitHub Stats: </h1>
-<div align="center" style="display: flex; justify-content: space-between;">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=NikoleSpace&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NikoleSpace&layout=compact&langs_count=7&theme=tokyonight"/>
-</div>
-
 
 *************
 <h3 align="center">Frontend technologies</h3>
